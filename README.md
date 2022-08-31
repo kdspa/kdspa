@@ -7,6 +7,9 @@
     <a href="https://twitter.com/sodacova_">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=@sodacova_&style=for-the-badge&color=1d9bf0" />
   </a>
+      <a href="https://spotify.com/kylespadaro">
+    <img src="https://img.shields.io/static/v1?label=Spotify&message=kylespadaro&style=for-the-badge&color=1ed760" />
+  </a>
  </div>
  <br>
 
