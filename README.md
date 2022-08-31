@@ -22,6 +22,6 @@ Currently working on:
 ---
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eaobao&show_icons=true&theme=radical&title_color=4abee7&text_color=ffffff&icon_color=4abee7&bg_color=0e1015&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eaobao&show_icons=true&count_private=true&theme=radical&title_color=4abee7&text_color=ffffff&icon_color=4abee7&bg_color=0e1015&hide_border=true&custom_title=My%20GitHub%20Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaobao&show_icons=true&theme=radical&title_color=4abee7&text_color=ffffff&icon_color=4abee7&&hide_border=true&bg_color=0e1015&layout=compact" />
 </div>
