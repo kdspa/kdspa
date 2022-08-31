@@ -1,5 +1,5 @@
 ## Hi there! 👋
-
+<br>
 <div align="center">
   <a href="https://discord.com/users/254814547326533632">
     <img src="https://img.shields.io/static/v1?label=Discord&message=kyle%230103&style=for-the-badge&color=5865f2" />
