@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <a href="https://discord.com/users/254814547326533632">
