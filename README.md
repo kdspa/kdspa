@@ -14,7 +14,7 @@ I'm Kyle, and I'm a 20 year old Computer Science student. I primarily use TypeSc
   <br>
   <br>
 Currently working on:
-- Naga (a custom multi-purpose Discord bot for the [Avatar: The Last Airbender](https://discord.gg/avatar) Discord server
+- Naga (a multi-purpose Discord bot for the [Avatar: The Last Airbender](https://discord.gg/avatar) Discord server)
 
 ---
 
