@@ -4,6 +4,9 @@
   <a href="https://discord.com/users/254814547326533632">
     <img src="https://img.shields.io/static/v1?label=Discord&message=kyle%230103&style=for-the-badge&color=5865f2" />
   </a>
+    <a href="https://twitter.com/sodacova_">
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=@sodacova_&style=for-the-badge&color=1d9bf0" />
+  </a>
 
 I'm Kyle, and I'm a 20 year old Computer Science student. I primarily use TypeScript/JavaScript for personal projects. Feel free to check out ~~[my website](https://soda.gg)~~ (Under Construction), or come say hi on my [Discord server](https://discord.gg/ermuZAU)!
 
