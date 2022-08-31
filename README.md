@@ -10,6 +10,9 @@
       <a href="https://open.spotify.com/user/kylespadaro">
     <img src="https://img.shields.io/static/v1?label=Spotify&message=kylespadaro&style=for-the-badge&color=1ed760" />
   </a>
+    <a href="https://soda.gg">
+    <img src="https://img.shields.io/static/v1?label=My Website&message=kyle%230103&style=for-the-badge&color=e6e6e6" />
+  </a>
  </div>
  <br>
 
