@@ -2,10 +2,10 @@
 <br>
 <div align="center">
   <a href="https://discord.com/users/254814547326533632">
-    <img src="https://img.shields.io/static/v1?label=Discord&message=kyle%230103&style=for-the-badge&color=5865f2" />
+    <img src="https://img.shields.io/static/v1?label=Discord&message=soda%230001&style=for-the-badge&color=5865f2" />
   </a>
-    <a href="https://twitter.com/sodacova_">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=@sodacova_&style=for-the-badge&color=1d9bf0" />
+    <a href="https://twitter.com/kylespadaro">
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=@kylespadaro&style=for-the-badge&color=1d9bf0" />
   </a>
     <a href="https://soda.gg">
     <img src="https://img.shields.io/static/v1?label=My Website&message=soda.gg&style=for-the-badge&color=e6e6e6" />
