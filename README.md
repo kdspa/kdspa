@@ -16,7 +16,7 @@
 Hi, I'm Kyle! I'm a sophomore at Virginia Tech majoring in Computer Science and Computational Modeling & Data Analytics. 
 <br>
 <br>
-I first started to learn how to code using Objective-C when I was about 9 years old, because I wanted to write iOS apps. However, I found it to be pretty difficult, and didn't seriously start programming as a hobby until I learned JavaScript when I was 13. Since then, I've learned a variety of languages such as C/C++, Java, Python, Swift, and TypeScript. I primarily write personal projects in JS/TS.
+I first started to learn how to program using Objective-C when I was about 9 years old, because I wanted to write iOS apps. However, I found it to be pretty difficult, and didn't seriously start programming as a hobby until I learned JavaScript when I was 13. Since then, I've learned a variety of languages such as C/C++, Java, Python, Swift, and TypeScript. I primarily write personal projects in JS/TS.
 
 ---
 
