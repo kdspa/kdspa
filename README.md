@@ -13,11 +13,7 @@
  </div>
  <br>
 
-I'm Kyle, and I'm a 20 year old Computer Science student. I primarily use TypeScript/JavaScript for personal projects. Feel free to check out ~~[my website](https://soda.gg)~~ (Under Construction), or come say hi on my [Discord server](https://discord.gg/ermuZAU)!
-  <br>
-  <br>
-Currently working on:
-- Naga (a multi-purpose Discord bot for the [Avatar: The Last Airbender](https://discord.gg/avatar) Discord server)
+Hi, I'm Kyle! I'm a sophomore at Virginia Tech majoring in Computer Science and Computational Modeling & Data Analytics. I first started to learn how to code using Objective-C when I was about 9 years old, because I wanted to write iOS apps. However, I found it to be pretty difficult, and didn't seriously start programming as a hobby until I learned JavaScript when I was 13. Since then, I've learned a variety of languages such as C/C++, Java, Python, Swift, and TypeScript. I primarily write personal projects in JS/TS.
 
 ---
 
