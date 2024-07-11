@@ -13,7 +13,7 @@
  </div>
  <br>
 
-Hi, I'm Kyle! I'm a junior college student majoring in Computer Science and Data Analytics. I am 20 years old (21 as of July 5th!)
+Hi, I'm Kyle! I'm a senior in college majoring in Computer Science and Data Analytics
 <br>
 <br>
 I first started to learn how to program using Objective-C when I was about 9 years old, because I wanted to write iOS apps. However, I found it to be pretty difficult, and didn't seriously start programming as a hobby until I learned JavaScript when I was 13. Since then, I've learned a variety of languages such as C/C++, Java, Python, Swift, and TypeScript. I primarily write personal projects in JS/TS.
