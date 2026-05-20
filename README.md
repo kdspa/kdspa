@@ -4,16 +4,16 @@
   <a href="https://discord.com/users/254814547326533632">
     <img src="https://img.shields.io/static/v1?label=Discord&message=soda%230001&style=for-the-badge&color=5865f2" />
   </a>
-    <a href="https://twitter.com/kylespadaro">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=@kylespadaro&style=for-the-badge&color=1d9bf0" />
+    <a href="https://bsky.app/profile/soda.gg">
+    <img src="https://img.shields.io/static/v1?label=Bluesky&message=@soda.gg&style=for-the-badge&color=0f73ff" />
   </a>
     <a href="https://soda.gg">
-    <img src="https://img.shields.io/static/v1?label=My Website&message=soda.gg&style=for-the-badge&color=e6e6e6" />
+    <img src="https://img.shields.io/static/v1?label=Website&message=soda.gg&style=for-the-badge&color=e6e6e6" />
   </a>
  </div>
  <br>
 
-Hi, I'm Kyle! I'm a senior in college majoring in Computer Science and Data Analytics
+Hi, I'm Kyle!
 <br>
 <br>
 I first started to learn how to program using Objective-C when I was about 9 years old, because I wanted to write iOS apps. However, I found it to be pretty difficult, and didn't seriously start programming as a hobby until I learned JavaScript when I was 13. Since then, I've learned a variety of languages such as C/C++, Java, Python, Swift, and TypeScript. I primarily write personal projects in JS/TS.
